@@ -3,8 +3,8 @@
 - 👀 I’m interested in data science , machine learning, cyber security
 - 🌱 I’m currently working on some python projects
 - 💞️ I’m looking to collaborate on  creating  solutions(products)
-- 📫 You can officially contact me via  @ linkedin.com/in/mungai-mwangi-914456228 or
-- via Email me  @ mungaimwangi733@gmail.com
+- 📫 You can officially contact me via  linkedin.com/in/mungai-mwangi-914456228
+-  or via Email me  @ mungaimwangi733@gmail.com
 - ⚡ Fun fact: if you can imagine it ,then you can create it 
 
 <!---
