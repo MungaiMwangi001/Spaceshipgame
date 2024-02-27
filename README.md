@@ -1,5 +1,5 @@
-# PygameForBeginners
-A simple 2D python game designed to teach you the pygame module.
-
-was fun learning and following through
-
+#my name is Mungai mwangi
+#curently am doing computerscience
+#The end goal is to produce products and solutions to word problems through the world of coding
+#CREATIVITY TO PROBLEMS
+#CODE IS FUN
