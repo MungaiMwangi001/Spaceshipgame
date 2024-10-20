@@ -1,5 +1,4 @@
-My name is Mungai mwangi
-curently am doing computer science.
-The end goal is to produce products and solutions to word problems through the world of coding
-CREATIVITY TO PROBLEMS
-CODE IS FUN
+This is a spaceship game project. I have been able to work with the 
+pygame module,  I have understood  object orinted programmming(oop) 
+at large and  experienced an aspect of  problem solving -thinking through each puzzle - and also an 
+algorithimic approach to programming.
